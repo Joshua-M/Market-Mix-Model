@@ -20,7 +20,7 @@ This project implements a **Media Mix Model (MMM)** using **Python** to analyse 
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/MediaMixModel.git
+   git clone https://github.com/Joshua-M/MediaMixModel.git
    ```
 3. Navigate to the project directory:
    ```bash
